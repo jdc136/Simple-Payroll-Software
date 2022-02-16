@@ -1,2 +1,2 @@
-# C-Project_Beginner
+# C# - Simple Payroll Software
 A beginning C# project.
